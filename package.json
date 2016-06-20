@@ -1,18 +1,18 @@
 {
-  "name": "react-pathjs-chart",
-  "version": "0.3.5",
+  "name": "react-pathjs-chart-with-click",
+  "version": "0.0.1",
   "private": false,
   "description": "React components - charts (Pie,SmoothLine) and other components (Tree) using path-js.",
   "main": "lib/Chart.js",
-  "author": "Roman Samec (roman.samec2@gmail.com)",
+  "author": "Abilash S (abilash.s.90@gmail.com)",
   "license": "MIT",
-  "homepage": "https://github.com/rsamec/react-pathjs-chart",
+  "homepage": "https://github.com/abilashs90/react-pathjs-chart",
   "repository": {
     "type": "git",
-    "url": "https://github.com/rsamec/react-pathjs-chart.git"
+    "url": "https://github.com/abilashs90/react-pathjs-chart.git"
   },
   "bugs": {
-    "url": "https://github.com/rsamec/react-pathjs-chart/issues"
+    "url": "https://github.com/abilashs90/react-pathjs-chart/issues"
   },
   "dependencies": {
     "paths-js": "^0.3.4",
